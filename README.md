@@ -2,11 +2,11 @@
 Quantcast's first coding task question
 
 Requirements: Python 3.9+
-Command to run: ./python3 most_active_cookie.py <cookie log file> -d <date> 
+Command to run: ./python3 most_active_cookie.py \<cookie log file\> -d \<date\> 
   
-"<cookie log file>" should be replaced with the name of the file
+\<cookie log file\> should be replaced with the name of the file
 
-"<date>" should be replaced with the date in the format YYYY-MM-DD
+\<date\> should be replaced with the date in the format YYYY-MM-DD
 
 # Description
 
